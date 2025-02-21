@@ -19,7 +19,7 @@ based on input features.
 """)
 
 # Display the dataset
-st.write("### Telco Customer Churn dataset", df2)
+st.write("### Telco Customer Churn dataset", df)
 
 # Create sliders for user input
 st.sidebar.header('User Input Parameters')
