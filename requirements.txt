@@ -1,4 +1,4 @@
+joblib
+pandas
 scikit-learn
-matplotlib
-nltk
-opencv-python
+streamlit
